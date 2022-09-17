@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="19550" start="node1" appversion="7.0 beta 4a">
+  <panorama id="node1">
+    <input prev1url="images/Cafe Nxt Pano 1_o_preview_1.jpg" tile9url="images/Cafe Nxt Pano 1_o_3l.jpg" prev2url="images/Cafe Nxt Pano 1_o_preview_2.jpg" fliplr="0" tile1url="images/Cafe Nxt Pano 1_o_1.jpg" tile5url="images/Cafe Nxt Pano 1_o_5.jpg" tile10url="images/Cafe Nxt Pano 1_o_4l.jpg" tile2url="images/Cafe Nxt Pano 1_o_2.jpg" prev4url="images/Cafe Nxt Pano 1_o_preview_4.jpg" prev0url="images/Cafe Nxt Pano 1_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafe Nxt Pano 1_o_4.jpg" tilevrurl="images/Cafe Nxt Pano 1_ovr.jpg" tile0url="images/Cafe Nxt Pano 1_o_0.jpg" tile8url="images/Cafe Nxt Pano 1_o_2l.jpg" prev3url="images/Cafe Nxt Pano 1_o_preview_3.jpg" tile11url="images/Cafe Nxt Pano 1_o_5l.jpg" tile7url="images/Cafe Nxt Pano 1_o_1l.jpg" prev5url="images/Cafe Nxt Pano 1_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafe Nxt Pano 1_o_0l.jpg" tile3url="images/Cafe Nxt Pano 1_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-4.10208" projection="4" pan="122.748"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node1" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.46187" y_floorplan_percent="82.7778" mapid="FloorPlan03" x_floorplan_percent="85.8814" y="-1.27888"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-6.57" description="" skinid="ht_node" title="Chef Showcase" url="{node11}" pan="-101.73"/>
+      <hotspot id="Point02" target="" tilt="-9.21" description="" skinid="ht_node" title="Collaborative Seating" url="{node7}" pan="-24.19"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="38.800" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-344.780" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input prev1url="images/Cafenxt Pano 2_o_preview_1.jpg" tile9url="images/Cafenxt Pano 2_o_3l.jpg" prev2url="images/Cafenxt Pano 2_o_preview_2.jpg" fliplr="0" tile1url="images/Cafenxt Pano 2_o_1.jpg" tile5url="images/Cafenxt Pano 2_o_5.jpg" tile10url="images/Cafenxt Pano 2_o_4l.jpg" tile2url="images/Cafenxt Pano 2_o_2.jpg" prev4url="images/Cafenxt Pano 2_o_preview_4.jpg" prev0url="images/Cafenxt Pano 2_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafenxt Pano 2_o_4.jpg" tilevrurl="images/Cafenxt Pano 2_ovr.jpg" tile0url="images/Cafenxt Pano 2_o_0.jpg" tile8url="images/Cafenxt Pano 2_o_2l.jpg" prev3url="images/Cafenxt Pano 2_o_preview_3.jpg" tile11url="images/Cafenxt Pano 2_o_5l.jpg" tile7url="images/Cafenxt Pano 2_o_1l.jpg" prev5url="images/Cafenxt Pano 2_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafenxt Pano 2_o_0l.jpg" tile3url="images/Cafenxt Pano 2_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node11" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.34514" y_floorplan_percent="56.7778" mapid="FloorPlan03" x_floorplan_percent="79.0238" y="-0.87719"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-3.43" description="" skinid="ht_node" title="Digital Restaurant &amp; Smart Kitchen" url="{node10}" pan="-123.51"/>
+      <hotspot id="Point02" target="" tilt="-5.16" description="" skinid="ht_node" title="Market" url="{node9}" pan="-16.91"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="-0.860" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-117.880" nodechangekeep="0" level="0.200" mode="2">
+        <source url="media/onlymp3.to - The busy kitchen at Michelin star restaurant Steirereck-g0yisRiLwGA-192k-1659832705487.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input prev1url="images/Cafenxt Pano 3_o_preview_1.jpg" tile9url="images/Cafenxt Pano 3_o_3l.jpg" prev2url="images/Cafenxt Pano 3_o_preview_2.jpg" fliplr="0" tile1url="images/Cafenxt Pano 3_o_1.jpg" tile5url="images/Cafenxt Pano 3_o_5.jpg" tile10url="images/Cafenxt Pano 3_o_4l.jpg" tile2url="images/Cafenxt Pano 3_o_2.jpg" prev4url="images/Cafenxt Pano 3_o_preview_4.jpg" prev0url="images/Cafenxt Pano 3_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafenxt Pano 3_o_4.jpg" tilevrurl="images/Cafenxt Pano 3_ovr.jpg" tile0url="images/Cafenxt Pano 3_o_0.jpg" tile8url="images/Cafenxt Pano 3_o_2l.jpg" prev3url="images/Cafenxt Pano 3_o_preview_3.jpg" tile11url="images/Cafenxt Pano 3_o_5l.jpg" tile7url="images/Cafenxt Pano 3_o_1l.jpg" prev5url="images/Cafenxt Pano 3_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafenxt Pano 3_o_0l.jpg" tile3url="images/Cafenxt Pano 3_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node10" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.27819" y_floorplan_percent="41.5556" mapid="FloorPlan03" x_floorplan_percent="75.0908" y="-0.642014"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-19.45" description="" skinid="ht_node" title="Back to Market" url="{node9}" pan="-181.95"/>
+      <hotspot id="Point02" target="" tilt="-1.5" description="" skinid="ht_video_file" title="Learn More About Digital Restaurant" url="media/Make Line Animation.mp4" pan="-77.03"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="8.480" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-71.550" nodechangekeep="0" level="0.200" mode="2">
+        <source url="media/onlymp3.to - The busy kitchen at Michelin star restaurant Steirereck-g0yisRiLwGA-192k-1659832705487.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input prev1url="images/Cafe Nxt pano 4_o_preview_1.jpg" tile9url="images/Cafe Nxt pano 4_o_3l.jpg" prev2url="images/Cafe Nxt pano 4_o_preview_2.jpg" fliplr="0" tile1url="images/Cafe Nxt pano 4_o_1.jpg" tile5url="images/Cafe Nxt pano 4_o_5.jpg" tile10url="images/Cafe Nxt pano 4_o_4l.jpg" tile2url="images/Cafe Nxt pano 4_o_2.jpg" prev4url="images/Cafe Nxt pano 4_o_preview_4.jpg" prev0url="images/Cafe Nxt pano 4_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafe Nxt pano 4_o_4.jpg" tilevrurl="images/Cafe Nxt pano 4_ovr.jpg" tile0url="images/Cafe Nxt pano 4_o_0.jpg" tile8url="images/Cafe Nxt pano 4_o_2l.jpg" prev3url="images/Cafe Nxt pano 4_o_preview_3.jpg" tile11url="images/Cafe Nxt pano 4_o_5l.jpg" tile7url="images/Cafe Nxt pano 4_o_1l.jpg" prev5url="images/Cafe Nxt pano 4_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafe Nxt pano 4_o_0l.jpg" tile3url="images/Cafe Nxt pano 4_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node9" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.05503" y_floorplan_percent="64.2222" mapid="FloorPlan03" x_floorplan_percent="61.9806" y="-0.992203"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-3.36" description="Chef Showcase" skinid="ht_node" title="" url="{node11}" pan="-93.24"/>
+      <hotspot id="Point02" target="" tilt="-2.46" description="" skinid="ht_node" title="The Bar" url="{node8}" pan="-140.32"/>
+      <hotspot id="Point03" target="" tilt="-10.67" description="" skinid="ht_node" title="Interactive Digital Screen" url="{node6}" pan="-188.69"/>
+      <hotspot id="Point04" target="" tilt="-8.18" description="" skinid="ht_node" title="Social Hub" url="{node5}" pan="-288.4"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="21.720" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-335.300" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input prev1url="images/Cafenxt Pano 5_o_preview_1.jpg" tile9url="images/Cafenxt Pano 5_o_3l.jpg" prev2url="images/Cafenxt Pano 5_o_preview_2.jpg" fliplr="0" tile1url="images/Cafenxt Pano 5_o_1.jpg" tile5url="images/Cafenxt Pano 5_o_5.jpg" tile10url="images/Cafenxt Pano 5_o_4l.jpg" tile2url="images/Cafenxt Pano 5_o_2.jpg" prev4url="images/Cafenxt Pano 5_o_preview_4.jpg" prev0url="images/Cafenxt Pano 5_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafenxt Pano 5_o_4.jpg" tilevrurl="images/Cafenxt Pano 5_ovr.jpg" tile0url="images/Cafenxt Pano 5_o_0.jpg" tile8url="images/Cafenxt Pano 5_o_2l.jpg" prev3url="images/Cafenxt Pano 5_o_preview_3.jpg" tile11url="images/Cafenxt Pano 5_o_5l.jpg" tile7url="images/Cafenxt Pano 5_o_1l.jpg" prev5url="images/Cafenxt Pano 5_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafenxt Pano 5_o_0l.jpg" tile3url="images/Cafenxt Pano 5_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node8" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.19064" y_floorplan_percent="72.5556" mapid="FloorPlan03" x_floorplan_percent="69.9476" y="-1.12095"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-4.96" description="" skinid="ht_node" title="Interactive Screen" url="{node6}" pan="-232.48"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="18.820" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-334.140" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input prev1url="images/Cafenxt Pano 6_o_preview_1.jpg" tile9url="images/Cafenxt Pano 6_o_3l.jpg" prev2url="images/Cafenxt Pano 6_o_preview_2.jpg" fliplr="0" tile1url="images/Cafenxt Pano 6_o_1.jpg" tile5url="images/Cafenxt Pano 6_o_5.jpg" tile10url="images/Cafenxt Pano 6_o_4l.jpg" tile2url="images/Cafenxt Pano 6_o_2.jpg" prev4url="images/Cafenxt Pano 6_o_preview_4.jpg" prev0url="images/Cafenxt Pano 6_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafenxt Pano 6_o_4.jpg" tilevrurl="images/Cafenxt Pano 6_ovr.jpg" tile0url="images/Cafenxt Pano 6_o_0.jpg" tile8url="images/Cafenxt Pano 6_o_2l.jpg" prev3url="images/Cafenxt Pano 6_o_preview_3.jpg" tile11url="images/Cafenxt Pano 6_o_5l.jpg" tile7url="images/Cafenxt Pano 6_o_1l.jpg" prev5url="images/Cafenxt Pano 6_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafenxt Pano 6_o_0l.jpg" tile3url="images/Cafenxt Pano 6_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node7" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.31424" y_floorplan_percent="80.8889" mapid="FloorPlan03" x_floorplan_percent="77.2086" y="-1.24969"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-5.44" description="" skinid="ht_node" title="Interactive Screen" url="{node6}" pan="-183.79"/>
+      <hotspot id="Point02" target="" tilt="-3.48" description="" skinid="ht_node" title="The Bar" url="{node8}" pan="-220.18"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="23.250" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-357.490" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev1url="images/Cafenxt Pano 7_o_preview_1.jpg" tile9url="images/Cafenxt Pano 7_o_3l.jpg" prev2url="images/Cafenxt Pano 7_o_preview_2.jpg" fliplr="0" tile1url="images/Cafenxt Pano 7_o_1.jpg" tile5url="images/Cafenxt Pano 7_o_5.jpg" tile10url="images/Cafenxt Pano 7_o_4l.jpg" tile2url="images/Cafenxt Pano 7_o_2.jpg" prev4url="images/Cafenxt Pano 7_o_preview_4.jpg" prev0url="images/Cafenxt Pano 7_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafenxt Pano 7_o_4.jpg" tilevrurl="images/Cafenxt Pano 7_ovr.jpg" tile0url="images/Cafenxt Pano 7_o_0.jpg" tile8url="images/Cafenxt Pano 7_o_2l.jpg" prev3url="images/Cafenxt Pano 7_o_preview_3.jpg" tile11url="images/Cafenxt Pano 7_o_5l.jpg" tile7url="images/Cafenxt Pano 7_o_1l.jpg" prev5url="images/Cafenxt Pano 7_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafenxt Pano 7_o_0l.jpg" tile3url="images/Cafenxt Pano 7_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node6" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="1.09177" y_floorplan_percent="73.1111" mapid="FloorPlan03" x_floorplan_percent="64.1388" y="-1.12953"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="0.05" description="" skinid="ht_node" title="The Market" url="{node9}" pan="-208.19"/>
+      <hotspot id="Point02" target="" tilt="0.14" description="" skinid="ht_node" title="Social Hub" url="{node5}" pan="-168.74"/>
+      <hotspot id="Point03" target="" tilt="-3.59" description="" skinid="ht_node" title="The Bar" url="{node8}" pan="-300.7"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="21.390" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-358.340" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input prev1url="images/Cafe Nxt Pano 7_o_preview_1.jpg" tile9url="images/Cafe Nxt Pano 7_o_3l.jpg" prev2url="images/Cafe Nxt Pano 7_o_preview_2.jpg" fliplr="0" tile1url="images/Cafe Nxt Pano 7_o_1.jpg" tile5url="images/Cafe Nxt Pano 7_o_5.jpg" tile10url="images/Cafe Nxt Pano 7_o_4l.jpg" tile2url="images/Cafe Nxt Pano 7_o_2.jpg" prev4url="images/Cafe Nxt Pano 7_o_preview_4.jpg" prev0url="images/Cafe Nxt Pano 7_o_preview_0.jpg" levelingpitch="0" tile4url="images/Cafe Nxt Pano 7_o_4.jpg" tilevrurl="images/Cafe Nxt Pano 7_ovr.jpg" tile0url="images/Cafe Nxt Pano 7_o_0.jpg" tile8url="images/Cafe Nxt Pano 7_o_2l.jpg" prev3url="images/Cafe Nxt Pano 7_o_preview_3.jpg" tile11url="images/Cafe Nxt Pano 7_o_5l.jpg" tile7url="images/Cafe Nxt Pano 7_o_1l.jpg" prev5url="images/Cafe Nxt Pano 7_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/Cafe Nxt Pano 7_o_0l.jpg" tile3url="images/Cafe Nxt Pano 7_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node5" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="0.762177" y_floorplan_percent="64.3333" mapid="FloorPlan03" x_floorplan_percent="44.7761" y="-0.993919"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="0.88" description="" skinid="ht_node" title="The Backyard" url="{node2}" pan="-85.61"/>
+      <hotspot id="Point02" target="" tilt="-5.58" description="" skinid="ht_node" title="Social Hub" url="{node4}" pan="-127.83"/>
+      <hotspot id="Point03" target="" tilt="2.37" description="" skinid="ht_node" title="The Backyard" url="{node3}" pan="-152.48"/>
+      <hotspot id="Point04" target="" tilt="2.07" description="" skinid="ht_node" title="Market" url="{node9}" pan="-253.64"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="24.930" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-350.170" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input prev1url="images/cafenxt pano 8_o_preview_1.jpg" tile9url="images/cafenxt pano 8_o_3l.jpg" prev2url="images/cafenxt pano 8_o_preview_2.jpg" fliplr="0" tile1url="images/cafenxt pano 8_o_1.jpg" tile5url="images/cafenxt pano 8_o_5.jpg" tile10url="images/cafenxt pano 8_o_4l.jpg" tile2url="images/cafenxt pano 8_o_2.jpg" prev4url="images/cafenxt pano 8_o_preview_4.jpg" prev0url="images/cafenxt pano 8_o_preview_0.jpg" levelingpitch="0" tile4url="images/cafenxt pano 8_o_4.jpg" tilevrurl="images/cafenxt pano 8_ovr.jpg" tile0url="images/cafenxt pano 8_o_0.jpg" tile8url="images/cafenxt pano 8_o_2l.jpg" prev3url="images/cafenxt pano 8_o_preview_3.jpg" tile11url="images/cafenxt pano 8_o_5l.jpg" tile7url="images/cafenxt pano 8_o_1l.jpg" prev5url="images/cafenxt pano 8_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/cafenxt pano 8_o_0l.jpg" tile3url="images/cafenxt pano 8_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node4" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="0.568199" y_floorplan_percent="52.1111" mapid="FloorPlan03" x_floorplan_percent="33.3804" y="-0.805092"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="-1.37" description="" skinid="ht_node" title="Social Hub" url="{node5}" pan="-90.83"/>
+      <hotspot id="Point02" target="" tilt="0.32" description="" skinid="ht_node" title="The Backyard" url="{node2}" pan="-165.9"/>
+      <hotspot id="Point03" target="" tilt="1.05" description="" skinid="ht_node" title="The Backyard" url="{node3}" pan="-272.79"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="20.560" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-2.230" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/onlymp3.to - Elevator Music-jj0ChLVTpaA-192k-1659978695855.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev1url="images/cafenxt pano 9_o_preview_1.jpg" tile9url="images/cafenxt pano 9_o_3l.jpg" prev2url="images/cafenxt pano 9_o_preview_2.jpg" fliplr="0" tile1url="images/cafenxt pano 9_o_1.jpg" tile5url="images/cafenxt pano 9_o_5.jpg" tile10url="images/cafenxt pano 9_o_4l.jpg" tile2url="images/cafenxt pano 9_o_2.jpg" prev4url="images/cafenxt pano 9_o_preview_4.jpg" prev0url="images/cafenxt pano 9_o_preview_0.jpg" levelingpitch="0" tile4url="images/cafenxt pano 9_o_4.jpg" tilevrurl="images/cafenxt pano 9_ovr.jpg" tile0url="images/cafenxt pano 9_o_0.jpg" tile8url="images/cafenxt pano 9_o_2l.jpg" prev3url="images/cafenxt pano 9_o_preview_3.jpg" tile11url="images/cafenxt pano 9_o_5l.jpg" tile7url="images/cafenxt pano 9_o_1l.jpg" prev5url="images/cafenxt pano 9_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/cafenxt pano 9_o_0l.jpg" tile3url="images/cafenxt pano 9_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node3" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="0.432587" y_floorplan_percent="39" mapid="FloorPlan03" x_floorplan_percent="25.4135" y="-0.602531"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" target="" tilt="1.93" description="" skinid="ht_node" title="Social Hub" url="{node4}" pan="-8.88"/>
+      <hotspot id="Point01" target="" tilt="-1.9" description="" skinid="ht_node" title="" url="{node2}" pan="-79.87"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="20.810" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-144.260" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/Birds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev1url="images/cafenxt pano 10_o_preview_1.jpg" tile9url="images/cafenxt pano 10_o_3l.jpg" prev2url="images/cafenxt pano 10_o_preview_2.jpg" fliplr="0" tile1url="images/cafenxt pano 10_o_1.jpg" tile5url="images/cafenxt pano 10_o_5.jpg" tile10url="images/cafenxt pano 10_o_4l.jpg" tile2url="images/cafenxt pano 10_o_2.jpg" prev4url="images/cafenxt pano 10_o_preview_4.jpg" prev0url="images/cafenxt pano 10_o_preview_0.jpg" levelingpitch="0" tile4url="images/cafenxt pano 10_o_4.jpg" tilevrurl="images/cafenxt pano 10_ovr.jpg" tile0url="images/cafenxt pano 10_o_0.jpg" tile8url="images/cafenxt pano 10_o_2l.jpg" prev3url="images/cafenxt pano 10_o_preview_3.jpg" tile11url="images/cafenxt pano 10_o_5l.jpg" tile7url="images/cafenxt pano 10_o_1l.jpg" prev5url="images/cafenxt pano 10_o_preview_5.jpg" levelingroll="0" tilescale="1.004883" tile6url="images/cafenxt pano 10_o_0l.jpg" tile3url="images/cafenxt pano 10_o_3.jpg" stereo="1" tilesize="2048">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node2" latitude="" datetime="" heading="0" comment="" title="" author="" customnodeid="" source="" tags="Desktop" description="" copyright="" info="" longitude="">
+      <mapcoords x="0.312424" y_floorplan_percent="68.1111" mapid="FloorPlan03" x_floorplan_percent="18.3542" y="-1.05228"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="1">
+      <label height="20" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" width="180" wordwrap="1" background="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="" tilt="6.2" description="" skinid="ht_node" title="Back to Start" url="{node1}" pan="-235.62"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" id="Element01" ambientlevel="0.000" tilt="30.000" field="90.000" pansize="10.000" loop="1" tiltsize="10.000" pan="-120.640" nodechangekeep="0" level="1.000" mode="2">
+        <source url="media/Birds.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0" zoomafterinfov="90" delay="none" type="crossdissolve" softedge="0" blendtime="1" zoomafteroutfov="20"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" copyright="" comment="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map height="0" id="FloorPlan01" transparent="0" tileformat="jpg" zoomlevels="1" title="" crispedges="0" width="0" type="file" floorplannorth="0" index="0" bgcolor="rgba(255, 255, 255, 1)"/>
+  <map height="0" id="FloorPlan02" transparent="0" tileformat="jpg" zoomlevels="1" title="" crispedges="0" width="0" type="file" floorplannorth="0" index="1" bgcolor="rgba(255, 255, 255, 1)"/>
+  <map height="9000" id="FloorPlan03" transparent="0" tileformat="jpg" zoomlevels="1" title="CafeNxt" crispedges="0" width="9916" type="file" floorplannorth="234" index="2" bgcolor="rgba(255, 255, 255, 1)"/>
+</tour>
